@@ -1,4 +1,5 @@
 package com.example.ballin
 
-class Shape(var x: Int, var y: Int) {
+open class Shape(var x: Int, var y: Int) {
+
 }
